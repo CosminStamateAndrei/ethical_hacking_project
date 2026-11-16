@@ -1,0 +1,6 @@
+*.json
+*.jsonl
+*.xml
+*.txt
+sensitive_data/*
+__pycache__/*
